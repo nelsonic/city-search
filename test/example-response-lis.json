@@ -1,0 +1,211 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"58900:localadmin:fr:fra:lison",
+            "layer":"local_admin",
+            "name":"Lison",
+            "alpha3":"FRA",
+            "admin0":"France",
+            "admin1":"Calvados",
+            "admin2":"ISIGNY-SUR-MER",
+            "text":"Lison, ISIGNY-SUR-MER, Calvados"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.05217095454311,
+               49.241372065044
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"3706:adm1:gb:gbr:lisburn",
+            "layer":"admin1",
+            "name":"Lisburn",
+            "alpha3":"GBR",
+            "admin0":"United Kingdom",
+            "admin1":"Lisburn",
+            "text":"Lisburn, United Kingdom"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -6.08545034650158,
+               54.5034624669311
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"4379:adm1:pt:prt:lisboa",
+            "layer":"admin1",
+            "name":"Lisboa",
+            "alpha3":"PRT",
+            "admin0":"Portugal",
+            "admin1":"Lisboa",
+            "text":"Lisboa"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -9.1636356320325,
+               38.9982786259401
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"10607:adm2:fr:fra:lisieux",
+            "layer":"admin2",
+            "name":"Lisieux",
+            "alpha3":"FRA",
+            "admin0":"France",
+            "admin1":"Calvados",
+            "admin2":"Lisieux",
+            "text":"Lisieux, Calvados"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.238431418462051,
+               49.1466206891213
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"107558:localadmin:us:usa:lisle",
+            "layer":"local_admin",
+            "name":"Lisle",
+            "alpha3":"USA",
+            "admin0":"United States",
+            "admin1":"New York",
+            "admin1_abbr":"NY",
+            "admin2":"Broome County",
+            "text":"Lisle, Broome County, NY"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -76.0533708662707,
+               42.361944270053
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"108138:localadmin:us:usa:lisbon",
+            "layer":"local_admin",
+            "name":"Lisbon",
+            "alpha3":"USA",
+            "admin0":"United States",
+            "admin1":"New York",
+            "admin1_abbr":"NY",
+            "admin2":"St. Lawrence County",
+            "text":"Lisbon, St. Lawrence County, NY"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.3184202016792,
+               44.7105054749556
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"3775:adm1:gb:gbr:lincolnshire",
+            "layer":"admin1",
+            "name":"Lincolnshire",
+            "alpha3":"GBR",
+            "admin0":"United Kingdom",
+            "admin1":"Lincolnshire",
+            "text":"Lincolnshire, United Kingdom"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.237465890043544,
+               53.1127357085237
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"9273:adm2:fr:fra:les_pieux",
+            "layer":"admin2",
+            "name":"Les Pieux",
+            "alpha3":"FRA",
+            "admin0":"France",
+            "admin1":"Manche",
+            "admin2":"Les Pieux",
+            "text":"Les Pieux, Manche"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.78907278766756,
+               49.5151372018092
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"9626:adm2:fr:fra:lillebonne",
+            "layer":"admin2",
+            "name":"Lillebonne",
+            "alpha3":"FRA",
+            "admin0":"France",
+            "admin1":"Seine-Maritime",
+            "admin2":"Lillebonne",
+            "text":"Lillebonne, Seine-Maritime"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.558489588252963,
+               49.4986759740154
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"29886:localadmin:fr:fra:les_grandes_ventes",
+            "layer":"local_admin",
+            "name":"Les Grandes-Ventes",
+            "alpha3":"FRA",
+            "admin0":"France",
+            "admin1":"Seine-Maritime",
+            "admin2":"BELLENCOMBRE",
+            "text":"Les Grandes-Ventes, BELLENCOMBRE, Seine-Maritime"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.23463839477964,
+               49.7714935280073
+            ]
+         }
+      }
+   ],
+   "bbox":[
+      -76.0533708662707,
+      38.9982786259401,
+      1.23463839477964,
+      54.5034624669311
+   ],
+   "date":1434641150651
+}
